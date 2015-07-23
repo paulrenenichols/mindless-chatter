@@ -1,4 +1,4 @@
-mindless-chatter
+Mindless Chatter
 ================
 
 # Build Process
