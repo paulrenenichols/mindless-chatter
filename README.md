@@ -2,7 +2,10 @@ mindless-chatter
 ================
 
 # Build Process
-To build the project, run *gulp install*.
+To build the project run the following:
+* *npm install*
+* *npm install -g gulp*
+* *gulp install*
 
 # Running the Project
 * To run the server, use the *gulp start* command.
