@@ -8,6 +8,8 @@ var bodyParser = require('body-parser');
 
 var app = express();
 
+app.set('view engine', 'jade');
+app.set('views', 'views');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
